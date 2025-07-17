@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mektigboy-server-hyperliquid-badge.png)](https://mseep.ai/app/mektigboy-server-hyperliquid)
+
 # Hyperliquid MCP Server
 
 An MCP server implementation that integrates the Hyperliquid SDK.
